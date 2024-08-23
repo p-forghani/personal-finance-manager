@@ -1,2 +1,2 @@
 # personal-finance-manager
-An tool to manage personal incomes, expenses, credits and debts.
+A tool to manage personal incomes, expenses, credits and debts.
